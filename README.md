@@ -2,7 +2,7 @@
 
 # torus-hack
 
-Prompt engineering with the Dealing with data from George R.R. Martin's [Torus Hackathon Template](https://github.com/renlabs-dev/torus-hackathon-template
+Prompt engineering with the [Torus Hackathon Template](https://github.com/renlabs-dev/torus-hackathon-template
 ).
 
 ## Setup
