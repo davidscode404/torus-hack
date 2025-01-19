@@ -2,7 +2,7 @@
 
 # torus-hack
 
-Prompt engineering with the [Torus Hackathon Template](https://github.com/renlabs-dev/torus-hackathon-template
+Prompt engineering (via [Gemini 1.5 Flash-8B](https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/))with the [Torus Hackathon Template](https://github.com/renlabs-dev/torus-hackathon-template
 ).
 
 ## Setup
