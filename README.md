@@ -2,7 +2,8 @@
 
 # torus-hack
 
-Dealing with data from George R.R. Martin's [Not A Blog](https://georgerrmartin.com/notablog/).
+Prompt engineering with the Dealing with data from George R.R. Martin's [Torus Hackathon Template](https://github.com/renlabs-dev/torus-hackathon-template
+).
 
 ## Setup
 
